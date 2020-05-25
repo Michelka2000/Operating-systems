@@ -70,5 +70,4 @@ cd ..
 rd /S /Q "Experiment Zone"
 echo The task 7 is completed.
 pause
-
 exit
