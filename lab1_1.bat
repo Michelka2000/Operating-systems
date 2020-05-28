@@ -56,7 +56,7 @@ tree /A /F >> "text2.txt"
 date /T >> "text2.txt"
 time /T >> "text2.txt"
 :: Дозапись в файл "text2.txt" ФИО студента, сдающего текущую лабораторную работу.
-echo Zadierniuk V.A. >> "text2.txt"
+echo Khankevich M.M. >> "text2.txt"
 echo The task 6 is completed.
 pause
 
